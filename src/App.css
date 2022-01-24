@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.App{
+  box-sizing: border-box;
+  align-items: center;
+}
+.App-header{
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  font-size: medium;
+}
+.App-link{
+  color: blue;
+}
+.App-logo{
+  background-image: none;
+  height: auto;
+}
